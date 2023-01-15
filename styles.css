@@ -39,6 +39,8 @@ hr {
   box-sizing: border-box;
   text-decoration: none;
   padding: 0.5rem 1rem;
+  padding: 5rem;
+  background-color: aquamarine;
 }
 
 .link-primary {
@@ -200,7 +202,6 @@ hr {
   .list-item-inline {
     display: inline;
     padding: 5rem;
-    background-color: aquamarine;
   }
 
   .container-center {
