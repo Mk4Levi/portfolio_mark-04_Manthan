@@ -37,15 +37,12 @@ hr {
 /** links **/
 .link {
   box-sizing: border-box;
-  /* color: #eda53a; */
-  /* padding: 0.5rem 1rem; */
-  padding: 0.5rem;
-  background-color: aquamarine;
-  border-radius: 4px;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
 }
 
 .link-primary {
-  position: center;
+  /* tealign: center; */
   max-width: 140px;
   padding: 0.6rem 1.2rem;
   background-color: var(--primary-color);
