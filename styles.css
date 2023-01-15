@@ -41,8 +41,15 @@ hr {
   padding: 0.5rem 1rem;
 }
 
+.link-mkp {
+  box-sizing: border-box;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border: #6b7280 solid 1px;
+  border-radius: 5px;
+}
+
 .link-primary {
-  /* tealign: center; */
   max-width: 140px;
   padding: 0.6rem 1.2rem;
   background-color: var(--primary-color);
