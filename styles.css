@@ -96,6 +96,11 @@ hr {
   font-weight: bold;
 }
 
+.nav-brand {
+  font-weight: bold;
+  padding: 2px;
+}
+
 .nav-brand a {
   text-decoration: none;
   color: inherit;
@@ -162,20 +167,7 @@ hr {
   padding: 2rem 1rem;
   text-align: center;
   color: white;
-  border-top-right-radius: 1rem;
-}
-
-.footer-mkp {
-  background-color: cyan;
-  padding: 2rem 1rem;
-  text-align: center;
-  color: white;
-  border-top-right-radius: 1rem;
-  text-decoration: none;
-  padding: 20px;
-  text-align: center;
-  padding: 2px;
-  border: 2px solid rgb(17, 255, 0); /* float: left; */
+  border-radius: 1rem;
 }
 
 .footer .link {
