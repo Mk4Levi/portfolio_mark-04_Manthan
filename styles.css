@@ -37,10 +37,11 @@ hr {
 /** links **/
 .link {
   box-sizing: border-box;
-  text-decoration-color: indigo;
+  color: #eda53a;
   padding: 0.5rem 1rem;
   padding: 0.5rem;
   background-color: aquamarine;
+  border-radius: 4px;
 }
 
 .link-primary {
