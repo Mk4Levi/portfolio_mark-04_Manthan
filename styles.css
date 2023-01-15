@@ -200,6 +200,7 @@ hr {
   .list-item-inline {
     display: inline;
     padding: 5rem;
+    background-color: aquamarine;
   }
 
   .container-center {
