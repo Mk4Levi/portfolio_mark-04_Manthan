@@ -45,6 +45,7 @@ hr {
   box-sizing: border-box;
   text-decoration: none;
   padding: 0.5rem 1rem;
+  margin: 5px;
   border: #6b7280 solid 1px;
   border-radius: 5px;
 }
