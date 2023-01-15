@@ -42,6 +42,7 @@ hr {
 }
 
 .link-primary {
+  text-align: center;
   max-width: 140px;
   padding: 0.6rem 1.2rem;
   background-color: var(--primary-color);
