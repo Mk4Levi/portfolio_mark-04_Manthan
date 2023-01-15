@@ -46,8 +46,9 @@ hr {
   text-decoration: none;
   padding: 0.5rem 1rem;
   margin: 5px;
-  border: #6b7280 solid 1px;
+  border: #0055ff solid 1px;
   border-radius: 5px;
+  background-color: blanchedalmond;
 }
 
 .link-primary {
