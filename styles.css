@@ -165,6 +165,14 @@ hr {
   border-top-right-radius: 1rem;
 }
 
+.footer-mkp {
+  background-color: cyan;
+  padding: 2rem 1rem;
+  text-align: center;
+  color: white;
+  border-top-right-radius: 1rem;
+}
+
 .footer .link {
   color: white;
 }
