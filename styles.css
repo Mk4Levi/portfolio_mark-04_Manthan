@@ -43,11 +43,11 @@ hr {
 
 .link-mkp {
   box-sizing: border-box;
-  text-decoration: none;
+  text-decoration: #0055ff;
   padding: 0.5rem 1rem;
   margin: 5px;
   border: #0055ff solid 1px;
-  border-radius: 5px;
+  border-radius: 10px;
   background-color: blanchedalmond;
 }
 
